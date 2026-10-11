@@ -1,0 +1,16 @@
+CALISTENIA 45 — versión 1.0
+
+CONTENIDO
+index.html: aplicación web
+manifest.webmanifest: configuración para instalar en Android
+sw.js: almacenamiento sin conexión de los archivos de la aplicación
+icon.svg: icono
+
+USO
+1. Para una vista previa, abrir index.html en un navegador.
+2. Para instalar como app Android, publicar la carpeta completa en un servidor HTTPS estático (por ejemplo GitHub Pages, Netlify o Cloudflare Pages).
+3. Abrir la URL publicada en Chrome para Android y elegir «Instalar aplicación» o «Añadir a pantalla de inicio».
+4. La primera carga requiere conexión. La aplicación básica puede funcionar sin conexión tras la instalación; los enlaces a búsquedas de videos requieren internet.
+
+PRECAUCIONES
+La aplicación no sustituye la evaluación clínica. El trabajo de fuerza está condicionado a valoración presencial del dolor dorsal y del antecedente de lesión de rodilla. No incluye videos verificados: solo enlaces a búsquedas externas. Los registros se guardan localmente en el navegador; exportar copias de seguridad periódicamente.
